@@ -1,13 +1,18 @@
-<h1 align="center"> Power CATS - IoT Project </h1>
-
 <p align="center">
-Sistema Antifurto de Cabos de Energia em Caixas de Passagem usando tecnologia IoT, Flutter/Dart e Spring/Java <br/>
+  <img alt="Power CATS project logo" src="PowerCats_LogoExample.png" width="80%">
+</p>
+
+<h1 align="center">  </h1>
+<br>
+<br>
+<br>
+<p align="center">
+Sistema Antifurto de Cabos de Energia em Caixas de Passagem usando tecnologia IoT. Web Service to register sensors, sensors measurements and sensors alerts. <br/>
+<br>
+<br>
 <a href="https://www.ifsc.edu.br/web/campus-florianopolis">Projeto financiado pelo IFSC - Florianópolis</a>
 </p>
-<p align="center">
-  <img alt="Power CATS project logo" src="PowerCats_LogoExample.png" width="100%">
-</p>
-<br>
+
 
 <!---
 PowerCATSproject/PowerCATSproject is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
